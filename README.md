@@ -1,7 +1,7 @@
 # Sigma-Fold
 A neural network project. Prediction of the secondary structure of a protein by its amino acid sequence.
 
-Creators: Albert V. I., Denis X. G., Cocklove A. A.
+Creators: Albert V. I., Denis A. G., Andrey A. H.
 
 ## Overview
 
