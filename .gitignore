@@ -1,0 +1,8 @@
+# Data (big or generated)
+data/raw/
+data/interim/
+data/processed/*.npy
+data/processed/*.npz
+data/processed/*.pkl
+data/processed/*.pt
+data/processed/*.bin
