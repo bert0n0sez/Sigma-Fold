@@ -73,4 +73,3 @@ project-root/
 ├─ .gitignore
 └─ README.md
 ```
-
