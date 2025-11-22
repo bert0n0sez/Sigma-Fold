@@ -22,7 +22,7 @@ Sigma-Fold — учебно-исследовательский проект по
 
 ## Датасет
 
-- [kaggle-pss-2022]: https://www.kaggle.com/datasets/kirkdco/protein-secondary-structure-2022 "Kaggle dataset: Protein Secondary Structure 2022"
+- [Kaggle: Protein Secondary Structure Dataset](https://www.kaggle.com/datasets/kirkdco/protein-secondary-structure-2022)
 
 Формат:
 - Вход: строка из 20 стандартных аминокислот (A, C, D, E, F, G, H, I, K, L, M, N, P, Q, R, S, T, V, W, Y)
