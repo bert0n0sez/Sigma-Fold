@@ -1,0 +1,273 @@
+Время обработки одного батча: 0.18 секунд
+Epoch 1, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 2, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 3, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 4, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 5, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 6, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 7, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 8, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 9, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 10, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 11, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 12, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 13, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 14, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 15, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 16, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 17, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 18, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 19, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Epoch 20, Train loss: nan
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4185893.0
+           2      0.000     0.000     0.000 2563599.0
+           3      0.000     0.000     0.000 5591449.0
+
+    accuracy                          0.000 12340941.0
+   macro avg      0.000     0.000     0.000 12340941.0
+weighted avg      0.000     0.000     0.000 12340941.0
+
+Bad Model saved!
+Best validation F1: 0
+              precision    recall  f1-score   support
+
+           0      0.000     0.000     0.000       0.0
+           1      0.000     0.000     0.000 4191683.0
+           2      0.000     0.000     0.000 2544756.0
+           3      0.000     0.000     0.000 5582646.0
+
+    accuracy                          0.000 12319085.0
+   macro avg      0.000     0.000     0.000 12319085.0
+weighted avg      0.000     0.000     0.000 12319085.0
+
