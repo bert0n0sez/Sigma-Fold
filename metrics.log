@@ -1,0 +1,70 @@
+Epoch 1, Train loss: 0.9789
+              precision    recall  f1-score   support
+
+           1      0.500     0.589     0.541   4185893
+           2      0.379     0.545     0.448   2563599
+           3      0.640     0.426     0.511   5591449
+
+    accuracy                          0.506  12340941
+   macro avg      0.506     0.520     0.500  12340941
+weighted avg      0.538     0.506     0.508  12340941
+
+Model saved!
+Epoch 2, Train loss: 0.9638
+              precision    recall  f1-score   support
+
+           1      0.508     0.583     0.543   4185893
+           2      0.375     0.577     0.455   2563599
+           3      0.647     0.416     0.507   5591449
+
+    accuracy                          0.506  12340941
+   macro avg      0.510     0.525     0.501  12340941
+weighted avg      0.543     0.506     0.508  12340941
+
+Model saved!
+Epoch 3, Train loss: 0.9556
+              precision    recall  f1-score   support
+
+           1      0.513     0.592     0.550   4185893
+           2      0.401     0.533     0.457   2563599
+           3      0.633     0.465     0.536   5591449
+
+    accuracy                          0.522  12340941
+   macro avg      0.516     0.530     0.514  12340941
+weighted avg      0.544     0.522     0.524  12340941
+
+Model saved!
+Epoch 4, Train loss: 0.9496
+              precision    recall  f1-score   support
+
+           1      0.516     0.595     0.552   4185893
+           2      0.394     0.566     0.464   2563599
+           3      0.644     0.441     0.523   5591449
+
+    accuracy                          0.519  12340941
+   macro avg      0.518     0.534     0.513  12340941
+weighted avg      0.548     0.519     0.521  12340941
+
+Epoch 5, Train loss: 0.9449
+              precision    recall  f1-score   support
+
+           1      0.521     0.586     0.552   4185893
+           2      0.396     0.565     0.466   2563599
+           3      0.639     0.455     0.531   5591449
+
+    accuracy                          0.522  12340941
+   macro avg      0.519     0.535     0.516  12340941
+weighted avg      0.549     0.522     0.525  12340941
+
+Model saved!
+Best validation F1: 0.52471123396222
+              precision    recall  f1-score   support
+
+           1      0.522     0.587     0.553   4191683
+           2      0.396     0.564     0.465   2544756
+           3      0.640     0.457     0.533   5582646
+
+    accuracy                          0.523  12319085
+   macro avg      0.519     0.536     0.517  12319085
+weighted avg      0.549     0.523     0.526  12319085
+
