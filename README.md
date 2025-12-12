@@ -65,10 +65,6 @@ project-root/
 │  ├─ metrics/                       # метрики (CSV/JSON)
 │  └─ reports/                       # краткие отчёты/выводы
 │
-├─ models/                        
-│  ├─ sklearn/
-│  └─ transformer/
-│
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
